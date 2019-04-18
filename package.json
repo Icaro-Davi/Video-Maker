@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/raidou12/Video-Maker/issues"
   },
-  "homepage": "https://github.com/raidou12/Video-Maker#readme"
+  "homepage": "https://github.com/raidou12/Video-Maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
