@@ -65,3 +65,4 @@ credentials/*.json
 
 #content
 content.json
+node_modules
