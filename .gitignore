@@ -69,3 +69,5 @@ node_modules
 content.json
 
 content/*.png
+content/*.dfm
+content/*.jpg
