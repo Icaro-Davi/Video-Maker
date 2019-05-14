@@ -71,3 +71,7 @@ content.json
 content/*.png
 content/*.dfm
 content/*.jpg
+content/*.js
+content/*.mov
+Adobe After Effects Auto-Save
+template.aep logs
